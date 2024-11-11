@@ -1,4 +1,4 @@
-##E-mail podruhé
+E-mail podruhé
 Pojďme dále rozvinout cvičení s vyplňováním e-mailu z předchozí lekce.
 
 Vytvořte si repozitář ze šablony cviceni-email-podruhe.
